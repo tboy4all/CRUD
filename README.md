@@ -1,4 +1,4 @@
-# CRUD-APP-DATABASE-ZURI
+# CRUD
 
 
 1.	run npm install on the CRUD folder to install all the node modules and dependecies
